@@ -67,4 +67,4 @@ A modern admin dashboard built with React, MUI, and Tailwind CSS that allows use
    ```
 
 🌐 Live Demo
-Check out the deployed version: Admin Dashboard Live Demo (Add your actual deployment link)
+Check out the deployed version: [(Admin Dashboard Live Demo)](https://admdashboard24.netlify.app/)
